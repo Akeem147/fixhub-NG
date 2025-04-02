@@ -15,8 +15,8 @@ A handyman services platform built with **Next.js** and **Express.js** that conn
 - **Frontend:** Next.js, React
 - **Backend:** Express.js, Node.js
 - **State Management:** Redux Toolkit
-- **Database:** (To be integrated; options include MongoDB, PostgreSQL)
-- **Styling:** Tailwind CSS or Material-UI (choose based on your preference)
+- **Database:** MongoDB
+- **Styling:** Tailwind CSS 
 
 ## Setup Instructions
 
